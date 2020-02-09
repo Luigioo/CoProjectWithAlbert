@@ -4,5 +4,5 @@ public enum Cos{
     stand,
     run;
 
-
+//I can't understand what is this!!! Happy face.java
 }
